@@ -1,4 +1,4 @@
-AI-Powered Workplace Productivity Assistant
+### AI-Powered Workplace Productivity Assistant
 
 
 ## Core Features
@@ -39,6 +39,6 @@ The assistant includes **five complete modules**, accessible through a sidebar n
 
 ## Responsible AI Disclaimer
 
-> **AI-generated content may require human review.**  
+**AI-generated content may require human review.**  
 Always verify critical information (e.g., deadlines, financial data, legal statements) before taking action. The assistant is a productivity enhancer, not a replacement for professional judgment.
 

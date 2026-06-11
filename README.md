@@ -30,7 +30,6 @@ The assistant includes **five complete modules**, accessible through a sidebar n
 - Seamlessly switches between all four other features via natural conversation
 
 ## Design & User Experience
-
 - **Modern SaaS UI** – clean, minimal, professional  
 - **Sidebar navigation** – quick access to each feature  
 - **Card‑based layout** – each tool is presented in its own card  
@@ -38,7 +37,6 @@ The assistant includes **five complete modules**, accessible through a sidebar n
 - **Fully responsive** – works on desktop, tablet, and mobile
 
 ## Responsible AI Disclaimer
-
 **AI-generated content may require human review.**  
 Always verify critical information (e.g., deadlines, financial data, legal statements) before taking action. The assistant is a productivity enhancer, not a replacement for professional judgment.
 

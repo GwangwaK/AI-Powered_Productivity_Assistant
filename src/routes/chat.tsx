@@ -93,7 +93,7 @@ function ChatPage() {
 
   const isBusy = status === "submitted" || status === "streaming";
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  const handleSubmit = async (_message: unknown, e: React.FormEvent) => {
     e.preventDefault();
     const text = input.trim();
     if (!text || isBusy) return;

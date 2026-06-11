@@ -1,8 +1,6 @@
 AI-Powered Workplace Productivity Assistant
 
 
-In today’s fast-paced digital economy, professionals waste valuable time on repetitive tasks like drafting emails, summarizing meeting notes, planning schedules, and conducting research. This project delivers an **AI-powered assistant** that automates these activities using modern AI tools (built with [lovable.ai](https://lovable.ai) and prompted via ChatGPT/Gemini). The solution demonstrates practical AI application, prompt engineering, ethical AI use, and measurable productivity gains.
-
 ## Core Features
 
 The assistant includes **five complete modules**, accessible through a sidebar navigation and card-based layout:

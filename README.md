@@ -1,7 +1,7 @@
 ### AI-Powered Workplace Productivity Assistant
 
 
-## Core Features
+## Features
 
 The assistant includes **five complete modules**, accessible through a sidebar navigation and card-based layout:
 

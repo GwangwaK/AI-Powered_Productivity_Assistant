@@ -63,12 +63,12 @@ Always verify critical information (e.g., deadlines, financial data, legal state
 ## 🛠️ Tools & Technologies
 
 
-**Development Platform** | Lovable.ai | Cloud-based AI-powered IDE for full-stack React applications |
-**AI Model** | OpenAI GPT / Gemini API | Powers all five AI features via Lovable's backend |
-**Frontend** | React + Tailwind CSS + Shadcn/ui | Generated automatically by Lovable from prompts |
-**Version Control** | GitHub | Two-way sync via Lovable's GitHub integration; repository auto-created and maintained |
-**Deployment & Hosting** | Lovable Cloud | Built-in hosting with one-click publish; live at `[project].lovable.app` with HTTPS + CDN |
-**Domain** | `*.lovable.app` (free subdomain) | Provided automatically by Lovable upon publishing |
+**Development Platform** | Lovable.ai | Cloud-based AI-powered IDE for full-stack React applications 
+**AI Model** | OpenAI GPT / Gemini API | Powers all five AI features via Lovable's backend
+**Frontend** | React + Tailwind CSS + Shadcn/ui | Generated automatically by Lovable from prompts 
+**Version Control** | GitHub | Two-way sync via Lovable's GitHub integration; repository auto-created and maintained 
+**Deployment & Hosting** | Lovable Cloud | Built-in hosting with one-click publish; live at https://lucid-workflow-ai.lovable.app.lovable.app with HTTPS + CDN 
+**Domain** | `*.lovable.app` (free subdomain) | Provided automatically by Lovable upon publishing 
 
 **Note on Hosting:** This project uses Lovable's native deployment rather than external platforms like Netlify or Vercel. Lovable Cloud provides fully managed infrastructure including preview environments, automatic SSL, and global content delivery
 

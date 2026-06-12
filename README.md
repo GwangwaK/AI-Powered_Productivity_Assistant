@@ -1,5 +1,25 @@
 ### AI-Powered Workplace Productivity Assistant
 
+The solution demonstrates effective AI application, prompt engineering, and responsible AI practices – all critical skills required in today's job market.
+
+## Project Objective
+
+To build a practical AI solution that enhances productivity by automating common workplace tasks, addressing:
+
+- Real-world business/professional use cases
+- Effective utilization of AI tools
+-  Strong prompt engineering techniques
+- Ethical and responsible AI practices
+-  Clear productivity improvement and value demonstration
+
+
+### Development Environment:
+
+- **Platform**: Cloud-based (browser) – no local setup required
+- **Primary Tool**: lovable.ai
+- **Prompt Engineering**: Custom-designed structured prompt of the five AI features
+- **Responsive Design**: Mobile-first, fully responsive using Tailwind CSS breakpoints
+- **State Management**: React hooks (useState, useEffect)
 
 ## Features
 
